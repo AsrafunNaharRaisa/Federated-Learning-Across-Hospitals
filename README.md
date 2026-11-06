@@ -16,3 +16,4 @@ A Comparative Study of Aggregation Methods Under Real Domain Shift Using CNNs on
 
 ## Submissions
 - Submission 1: Dataset, EDA and related work (`Submission1.ipynb`)
+- Submission 2: Pretrained CNNs, with and without fine-tuning (`Submission2.ipynb`)
